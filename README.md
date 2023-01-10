@@ -9,8 +9,7 @@ STEM.
  * Edited By: *Joseph Ohene -->
  ```
 # Welcom to STEM Mixer 2023! 
-## GOAL:
-### To give students exposure to each aspect of STEM (Science, Technology, Engineering, and Math) and allow students to apply the knowledge they gain through a community service project proposal. Students will also get to learn about and explore different career opportunities in STEM.
+### Our mission is to give students exposure to each aspect of STEM (Science, Technology, Engineering, and Math) and allow students to apply the knowledge they gain through a community service project proposal. Students will also get to learn about and explore different career opportunities in STEM.
 
 
 [Week 1 - Computer Basics](https://github.com/helloMaydm/STEM-Mixer-2023/blob/main/Week%201)<br />
