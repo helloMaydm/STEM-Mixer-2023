@@ -1,4 +1,3 @@
-# STEM-Mixer-2023
 ```
 <!--  DO NOT DELETE THIS HEADER!
 This file is the property of Maydm (c). Maydm is a 501(c)
@@ -9,6 +8,7 @@ STEM.
  * Written By: Anjali Gali, Maydm Programs Team
  * Edited By: *Joseph Ohene -->
  ```
+# STEM-Mixer-2023
 
 [Week 1 - Computer Basics](https://github.com/helloMaydm/STEM-Mixer-2023/blob/main/Week%201)<br />
 [Week 2 - Electrical Engineering](https://github.com/helloMaydm/STEM-Mixer-2023/blob/main/Week%202)<br />
