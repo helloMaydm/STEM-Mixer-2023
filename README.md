@@ -8,7 +8,7 @@ STEM.
  * Written By: Anjali Gali, Maydm Programs Team
  * Edited By: *Joseph Ohene -->
  ```
-# Welcome to STEM Mixer 2023! 
+# Welcome to Maydm Creators Lab 2023! 
 _Our mission is to give students exposure to each aspect of STEM (Science, Technology, Engineering, and Math) and allow students to apply the knowledge they gain through a community service project proposal. Students will also get to learn about and explore different career opportunities in STEM._
 
 
